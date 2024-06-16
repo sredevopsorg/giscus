@@ -1,7 +1,7 @@
 {
   "origins": [
     "https://giscus.app",
-    "https://giscus.vercel.app",
+    "https://sredevopsorg.vercel.app",
     "https://giscus-component.vercel.app"
   ],
   "originsRegex": [
