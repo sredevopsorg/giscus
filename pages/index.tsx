@@ -39,9 +39,9 @@ export async function getStaticProps({ locale }: GetStaticPropsContext) {
 
   const comment: IComment = {
     author: {
-      avatarUrl: 'https://avatars.githubusercontent.com/in/106117',
-      login: 'giscus',
-      url: 'https://github.com/apps/giscus',
+      avatarUrl: 'https://avatars.githubusercontent.com/u/91654008?s=400&u=8a9d0ef038acdd597f1b27737ef9dae3e4d38b9a&v=4',
+      login: 'sredevopsorg',
+      url: 'https://github.com/apps/sredevopsorg',
     },
     authorAssociation: 'APP',
     bodyHTML: contentBefore,
@@ -57,7 +57,7 @@ export async function getStaticProps({ locale }: GetStaticPropsContext) {
     replies: [],
     replyCount: 0,
     upvoteCount: 0,
-    url: 'https://github.com/giscus/giscus',
+    url: 'https://github.com/sredevopsorg/.github',
     viewerDidAuthor: false,
     viewerHasUpvoted: false,
     viewerCanUpvote: false,
@@ -129,7 +129,7 @@ export default function Home({
   return (
     <main className="gsc-homepage-bg min-h-screen w-full" data-theme={theme}>
       <Head>
-        <title>giscus</title>
+        <title>giscus sredevopsorg</title>
         <meta name="giscus:backlink" content={env.app_host} />
       </Head>
       <div className="color-text-primary w-full max-w-3xl mx-auto p-2">
