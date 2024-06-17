@@ -39,9 +39,9 @@ export async function getStaticProps({ locale }: GetStaticPropsContext) {
 
   const comment: IComment = {
     author: {
-      avatarUrl: 'https://avatars.githubusercontent.com/u/91654008?s=400&u=8a9d0ef038acdd597f1b27737ef9dae3e4d38b9a&v=4',
-      login: 'sredevopsorg',
-      url: 'https://github.com/apps/sredevopsorg',
+      avatarUrl: 'https://avatars.githubusercontent.com/in/106117',
+      login: 'giscus',
+      url: 'https://github.com/apps/giscus',
     },
     authorAssociation: 'APP',
     bodyHTML: contentBefore,
@@ -57,7 +57,7 @@ export async function getStaticProps({ locale }: GetStaticPropsContext) {
     replies: [],
     replyCount: 0,
     upvoteCount: 0,
-    url: 'https://github.com/sredevopsorg/.github',
+    url: 'https://github.com/giscus/giscus',
     viewerDidAuthor: false,
     viewerHasUpvoted: false,
     viewerCanUpvote: false,
