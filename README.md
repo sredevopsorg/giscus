@@ -1,4 +1,4 @@
-# [giscus][giscus]
+# [sredevopsorg][sredevopsorg]
 
 A comments system powered by [GitHub Discussions][discussions]. Let visitors leave comments and reactions on your website via GitHub! Heavily inspired by [utterances][utterances].
 
@@ -20,14 +20,14 @@ When giscus loads, the [GitHub Discussions search API][search-api] is used to fi
 
 To comment, visitors must authorize the [giscus app][giscus-app] to [post on their behalf][authorization] using the GitHub OAuth flow. Alternatively, visitors can comment on the GitHub Discussion directly. You can moderate the comments on GitHub.
 
-[giscus]: https://giscus.app
+[sredevopsorg]: https://sredevopsorg.vercel.app
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
-[repo]: https://github.com/giscus/giscus
-[advanced-usage]: https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md
-[creating-custom-themes]: https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#data-theme
-[multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
-[self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
+[repo]: https://github.com/sredevopsorg/giscus
+[advanced-usage]: https://github.com/sredevopsorg/giscus/blob/main/ADVANCED-USAGE.md
+[creating-custom-themes]: https://github.com/sredevopsorg/giscus/blob/main/ADVANCED-USAGE.md#data-theme
+[multiple-languages]: https://github.com/sredevopsorg/giscus/blob/main/CONTRIBUTING.md#adding-localizations
+[self-hosting]: https://github.com/sredevopsorg/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
 [giscus-app]: https://github.com/apps/giscus
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
@@ -62,7 +62,7 @@ See [CONTRIBUTING.md][contributing]
 [repo]: https://github.com/giscus/giscus
 [giscus-topic]: https://github.com/topics/giscus
 [topic-howto]: https://docs.github.com/en/github/administering-a-repository/classifying-your-repository-with-topics
-[advanced-usage]: https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md
+[advanced-usage]: https://github.com/sredevopsorg/giscus/blob/main/ADVANCED-USAGE.md
 [utterances]: https://github.com/utterance/utterances
 [gitalk]: https://github.com/gitalk/gitalk
 [convert]: https://docs.github.com/en/discussions/managing-discussions-for-your-community/moderating-discussions#converting-an-issue-to-a-discussion
