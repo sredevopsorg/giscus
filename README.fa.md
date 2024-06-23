@@ -20,7 +20,7 @@
 
 برای ثبت  دیدگاه به , بازدیدکنندگان باید [برنامه giscus][giscus-app] [دسترسی لازم][authorization] را بر اساس GitHub OAuth بدهند. یا اینکه, می توانند به طور مستقیم در گیت هاب نظر خود را درج کنند. شما می توانید نظرات را در گیت هاب مدیریت کنید.
 
-[giscus]: https://giscus.app/fa
+[giscus]: https://sredevopsorg.vercel.app/fa
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

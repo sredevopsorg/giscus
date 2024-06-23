@@ -23,7 +23,7 @@
 Чтобы добавить новый комментарий пользователи должны авторизовать [giscus app][giscus-app] для [опубликования комментариев от их имени][authorization] с помощью GitHub OAuth.
 Кроме того, посетители могут оставлять комментарии напрямую в GitHub Discussion. Вы можете модерировать эти комментарии через GitHub.
 
-[giscus]: https://giscus.app/ru
+[giscus]: https://sredevopsorg.vercel.app/ru
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -32,7 +32,7 @@
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

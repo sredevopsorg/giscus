@@ -20,7 +20,7 @@ giscus가 로드되면, [GitHub Discussions 검색 API][search-api]를 사용하
 
 댓글을 남기기 위해, 방문자는 GitHub OAuth를 이용하여 [giscus app][giscus-app]이 [자신을 대신하여 게시][authorization]할 수 있도록 권한을 부여해야합니다. 또는 방문자가 GitHub Discussion에서 직접 댓글을 달 수도 있습니다. GitHub에서 댓글을 관리할 수 있습니다.
 
-[giscus]: https://giscus.app/ko
+[giscus]: https://sredevopsorg.vercel.app/ko
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ giscus가 로드되면, [GitHub Discussions 검색 API][search-api]를 사용하
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

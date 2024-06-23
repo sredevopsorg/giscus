@@ -23,7 +23,7 @@
 Щоб додати новий коментар користувачі мусять пройти авторизацію [giscus app][giscus-app] для [здійснення публікацій коментарів від свого імені][authorization] за допомогою GitHub OAuth.
 Крім того, користувачі можуть залишати коментарі напряму в GitHub Discussion. Ви можете проводити модерацію цих коментарів через GitHub.
 
-[giscus]: https://giscus.app/uk
+[giscus]: https://sredevopsorg.vercel.app/uk
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -32,7 +32,7 @@
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

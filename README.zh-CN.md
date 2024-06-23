@@ -20,7 +20,7 @@ giscus 加载时，会使用 [GitHub Discussions 搜索 API][search-api] 根据�
 
 访客如果想要评论，必须按照 GitHub OAuth 流程授权 [giscus app][giscus-app] [代表他发布][authorization]，或者可以直接在 GitHub Discussion 里评论。你可以在 GitHub 上管理评论。
 
-[giscus]: https://giscus.app/zh-CN
+[giscus]: https://sredevopsorg.vercel.app/zh-CN
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ giscus 加载时，会使用 [GitHub Discussions 搜索 API][search-api] 根据�
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

@@ -20,7 +20,7 @@
 
 ដើម្បីសរសេរមតិ, អ្នកប្រើប្រាស់ [giscus app][giscus-app] ដាច់ខាតត្រូវតែសុំការអនុញ្ញាតចូលគណនី [ដើម្បីបង្ហោះមតិ][authorization] ដោយប្រើប្រាស់ GitHub OAuth ។ ឬម៉្យាងទៀតអ្នកប្រើក៏អាចធ្វើការសរសេរមតិតាមរយៈ GitHub ដោយផ្ទាល់ក៏បាន។ អ្នកអាចគ្រប់គ្រង comments នៅលើ GitHub ដោយផ្ទាល់។
 
-[giscus]: https://giscus.app
+[giscus]: https://sredevopsorg.vercel.app
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

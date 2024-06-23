@@ -20,7 +20,7 @@ Når Giscus indlæses, bruges [GitHub-diskussionssøgnings-API'et][search-api] t
 
 For at kommentere skal besøgende autorisere [giscus app][giscus-app] til at [poste på deres vegne][authorization] ved hjælp af GitHub OAuth-flow. Alternativt kan besøgende kommentere direkte på GitHub-diskussionen. Du kan moderere kommentarerne på GitHub.
 
-[giscus]: https://giscus.app
+[giscus]: https://sredevopsorg.vercel.app
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ For at kommentere skal besøgende autorisere [giscus app][giscus-app] til at [po
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->
