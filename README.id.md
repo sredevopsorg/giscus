@@ -20,7 +20,7 @@ Ketika giscus dimuat, [API pencarian GitHub Discussions][search-api] digunakan u
 
 Untuk berkomentar, pengunjung harus mengizinkan [aplikasi giscus][giscus-app] untuk [berkomentar atas nama mereka][authorization] menggunakan alur GitHub OAuth. Atau, pengunjung dapat meninggalkan komentar pada diskusinya secara langsung di GitHub. Anda dapat memoderasi komentarnya di GitHub.
 
-[giscus]: https://giscus.app/id
+[giscus]: https://sredevopsorg.vercel.app/id
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ Untuk berkomentar, pengunjung harus mengizinkan [aplikasi giscus][giscus-app] un
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

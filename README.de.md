@@ -20,7 +20,7 @@ Wenn giscus lädt, wird die [GitHub Diskussionen Such-API][search-api] verwendet
 
 Um zu kommentieren, müssen Besucher die [giscus App][giscus-app] autorisieren [in ihrem Namen][authorization] zu posten, mithilfe des GitHub OAuth flows. Alternativ können Besucher direkt auf der Diskussion kommentieren. Du kannst die Kommentare auf GitHub moderieren.
 
-[giscus]: https://giscus.app/de
+[giscus]: https://sredevopsorg.vercel.app/de
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ Um zu kommentieren, müssen Besucher die [giscus App][giscus-app] autorisieren [
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

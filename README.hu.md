@@ -20,7 +20,7 @@ Amikor a giscus betöltődik, a [GitHub Discussions keresési API][search-api] h
 
 A hozzászóláshoz a látogatóknak engedélyezniük kell a [giscus alkalmazást][giscus-app] számára a GitHub OAuth folyamat segítségével, hogy [a nevükben hozzászólhassanak][authorization]. Alternatív megoldásként a látogatók közvetlenül a GitHubon is hozzászólhatnak. A hozzászólásokat a GitHubon moderálhatod.
 
-[giscus]: https://giscus.app
+[giscus]: https://sredevopsorg.vercel.app
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ A hozzászóláshoz a látogatóknak engedélyezniük kell a [giscus alkalmazás
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

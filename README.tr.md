@@ -20,7 +20,7 @@ Giscus yüklendiğinde, [GitHub Discussions arama API'ı][search-api] kullanıla
 
 Yorum yapmak için, ziyaretçiler [giscus uygulaması][giscus-app]nı [kendi adlarına yazmak][authorization] için GitHub OAuth üzerinden yetkilendirmeli. Alternatif olarak, ziyaretçiler direkt olarak GitHub Discussions üzerinden yorum yapabilirler. Yorumları GitHub üzerinden yönetebilirsiniz.
 
-[giscus]: https://giscus.app/tr
+[giscus]: https://sredevopsorg.vercel.app/tr
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ Yorum yapmak için, ziyaretçiler [giscus uygulaması][giscus-app]nı [kendi adl
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

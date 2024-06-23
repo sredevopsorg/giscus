@@ -20,7 +20,7 @@ Quan es carrega giscus, s'utilitza [l'API de cerca de discussions de GitHub][sea
 
 Per deixar un comentari, els visitants han d'autoritzar [l'aplicació de giscus][giscus-app] per [publicar en el seu nom][authorization] utilitzant el flux de GitHub OAuth. Alternativament, els visitants poden comentar directament a la Discussió de GitHub. Pots moderar els comentaris a GitHub.
 
-[giscus]: https://giscus.app/ca
+[giscus]: https://sredevopsorg.vercel.app/ca
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ Per deixar un comentari, els visitants han d'autoritzar [l'aplicació de giscus]
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

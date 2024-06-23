@@ -21,7 +21,7 @@ Giscus yuklanganda, sahifaga mos muhokama topish uchun [GitHub Muzokaralari qidi
 
 Izoh qoldirish uchun tashrif buyuruvchilar [GitHub OAuth oqimi][authorization] orqali [giscus ilovasini][giscus-app] o'zlarining nomidan xabar yuborishga ruxsat berishlari kerak. Boshqa tomondan, tashrif buyuruvchilar to'g'ridan-to'g'ri GitHub Muzokarasida izoh qoldirishlari mumkin. Siz GitHub'da izohlarni moderatsiya qilishingiz mumkin.
 
-[giscus]: https://giscus.app
+[giscus]: https://sredevopsorg.vercel.app
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -30,7 +30,7 @@ Izoh qoldirish uchun tashrif buyuruvchilar [GitHub OAuth oqimi][authorization] o
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

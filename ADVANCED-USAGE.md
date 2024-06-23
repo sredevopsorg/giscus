@@ -49,7 +49,7 @@ Example `giscus.json`:
 
 ```json
 {
-  "origins": ["https://giscus.app"]
+  "origins": ["https://sredevopsorg.vercel.app"]
 }
 ```
 
@@ -66,7 +66,7 @@ Example `giscus.json`:
 
 ```json
 {
-  "origins": ["https://giscus.app"],
+  "origins": ["https://sredevopsorg.vercel.app"],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
 ```
@@ -134,10 +134,10 @@ for the `data-theme` attribute. The URL will be used by giscus to construct a
 For example, given the following `<script>` tag:
 
 ```html
-<script src="https://giscus.app/client.js"
+<script src="https://sredevopsorg.vercel.app/client.js"
         data-repo="giscus/giscus"
         ...
-        data-theme="https://giscus.app/themes/custom_example.css"
+        data-theme="https://sredevopsorg.vercel.app/themes/custom_example.css"
         ...>
 </script>
 ```
@@ -146,7 +146,7 @@ then giscus will add the following element:
 
 
 ```html
-<link id="giscus-theme" rel="stylesheet" crossorigin="anonymous" href="https://giscus.app/themes/custom_example.css">
+<link id="giscus-theme" rel="stylesheet" crossorigin="anonymous" href="https://sredevopsorg.vercel.app/themes/custom_example.css">
 ```
 
 Please note that loading an external CSS file **may be unsafe**. Make sure that
@@ -190,7 +190,7 @@ page based on giscus' state. For example:
 
 ```ts
 function handleMessage(event: MessageEvent) {
-  if (event.origin !== 'https://giscus.app') return;
+  if (event.origin !== 'https://sredevopsorg.vercel.app') return;
   if (!(typeof event.data === 'object' && event.data.giscus)) return;
 
   const giscusData = event.data.giscus;
@@ -268,7 +268,7 @@ For example:
 function sendMessage<T>(message: T) {
   const iframe = document.querySelector<HTMLIFrameElement>('iframe.giscus-frame');
   if (!iframe) return;
-  iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+  iframe.contentWindow.postMessage({ giscus: message }, 'https://sredevopsorg.vercel.app');
 }
 ```
 
@@ -311,7 +311,7 @@ type `ISetConfigMessage`:
 ```ts
 sendMessage({
   setConfig: {
-    theme: 'https://giscus.app/themes/custom_example.css',
+    theme: 'https://sredevopsorg.vercel.app/themes/custom_example.css',
     reactionsEnabled: false,
   }
 });

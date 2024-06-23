@@ -20,7 +20,7 @@ Wanneer giscus laadt, wordt de [GitHub Discussions search API][search-api] gebru
 
 Om een opmerking achter te laten, moeten gebruikers de [giscus app][giscus-app] authorizeren om [namens hen te posten][authorization] met behulp van de GitHub OAuth-stroom. Als alternatief kunnen bezoekers rechtstreeks reageren op de GitHub-discussie. U kunt de opmerkingen op GitHub modereren.
 
-[giscus]: https://giscus.app/nl
+[giscus]: https://sredevopsorg.vercel.app/nl
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ Om een opmerking achter te laten, moeten gebruikers de [giscus app][giscus-app] 
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->
