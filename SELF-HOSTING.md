@@ -32,7 +32,7 @@ the web app. You can use this guide as a reference.
   - Feel free to name it whatever you want (e.g. `myblog-comments`). I would
     appreciate it if you indicate that it is a self-hosted version of
     [giscus][giscus] (with the link) in the description.
-  - Use `https://giscus.app` as the homepage URL unless you also accept any
+  - Use `https://sredevopsorg.vercel.app` as the homepage URL unless you also accept any
     users to use your service on their repositories.
 
 ### Identifying and authorizing users
@@ -41,7 +41,7 @@ the web app. You can use this guide as a reference.
   ![image](https://user-images.githubusercontent.com/6379424/120402124-9f82d280-c36b-11eb-940c-41606361b0d6.png)
 
   - Use `https://[YOUR-DOMAIN-HERE]/api/oauth/authorized` as the authorization
-    callback URL, e.g. `https://giscus.app/api/oauth/authorized`.
+    callback URL, e.g. `https://sredevopsorg.vercel.app/api/oauth/authorized`.
   - **Do not** check "**Expire user authorization tokens**", as giscus
     currently does not support it.
 
@@ -231,7 +231,7 @@ encounter any problems, [create a new issue][new-issue].
 
 [app-doc]: https://docs.github.com/apps/building-integrations
 [create-app]: https://github.com/settings/apps/new
-[giscus]: https://giscus.app
+[giscus]: https://sredevopsorg.vercel.app
 [token-validity-period]: https://github.com/giscus/giscus/blob/main/pages/api/oauth/authorized.ts#L6
 [supabase]: https://supabase.io
 [vercel]: https://vercel.com

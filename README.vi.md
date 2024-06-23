@@ -20,7 +20,7 @@ Khi giscus loads, [GitHub Discussions tìm kiếm API][search-api] được sử
 
 Để mà bình luận, người muốn bình luận phải authorize cho [giscus app][giscus-app] thành [đăng trên danh nghĩa của họ][authorization] sử dụng luồng OAuth của GitHub. Ngoài ra, khách truy cập có thể nhận xét trực tiếp trên Discussion GitHub. Bạn có thể kiểm duyệt các bình luận trên GitHub.
 
-[giscus]: https://giscus.app/vi
+[giscus]: https://sredevopsorg.vercel.app/vi
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@ Khi giscus loads, [GitHub Discussions tìm kiếm API][search-api] được sử
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->

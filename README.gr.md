@@ -20,7 +20,7 @@
 
 Για να μπορέσουν να σχολιάσουν, οι επισκέπτες θα πρέπει να εξουσιοδοτήσουν την [εφαρμογή giscus][giscus-app] ώστε να [αναρτά περιεχόμενο γι αυτούς][authorization] χρησιμοποιώντας τη ροή OAuth του GitHub. Εναλλακτικά, οι επισκέπτες μπορούν να σχολιάσουν απ'ευθείας στις Συζητήσεις του GitHub. Μπορείτε να διαχειριστείτε τα σχόλια στο GitHub.
 
-[giscus]: https://giscus.app
+[giscus]: https://sredevopsorg.vercel.app
 [discussions]: https://docs.github.com/en/discussions
 [utterances]: https://github.com/utterance/utterances
 [repo]: https://github.com/giscus/giscus
@@ -29,7 +29,7 @@
 [multiple-languages]: https://github.com/giscus/giscus/blob/main/CONTRIBUTING.md#adding-localizations
 [self-hosting]: https://github.com/giscus/giscus/blob/main/SELF-HOSTING.md
 [search-api]: https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search
-[giscus-app]: https://github.com/apps/giscus
+[giscus-app]: https://github.com/apps/sredevopsorg
 [authorization]: https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps
 
 <!-- configuration -->
