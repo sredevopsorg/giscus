@@ -1,6 +1,6 @@
 # Privacy Policy
 
-The [giscus organization][organization] (our organization) is an independent
+The [SREDevOps Organization][organization] (our organization) is an independent
 organization and is not part of any company. Our organization operates the
 https://sredevopsorg.vercel.app website (our website). This privacy policy will explain how
 our organization uses your personal data when you use our website.
@@ -74,7 +74,7 @@ sole reason that we do not collect any data.
 
 If you make a request, we have one month to respond to you. If you would like
 to exercise any of these rights, please contact us at our email:
-[support@giscus.app][email]
+[support@sredevops.org][email]
 
 ## Cookies
 
@@ -122,7 +122,7 @@ updates on this web page. This privacy policy was last updated on 26 May 2021.
 If you have any questions about our organization's privacy policy, the data we
 do not hold on you, or you would like to exercise one of your data protection
 rights, please do not hesitate to contact us at our email:
-[support@giscus.app][email]
+[support@sredevops.org][email]
 
 ## How to contact the appropriate authorities
 
@@ -130,6 +130,6 @@ Should you wish to report a complaint or if you feel that our organization has
 not addressed your concern in a satisfactory manner, you may contact your local
 supervisory authority.
 
-[organization]: https://github.com/giscus
-[email]: mailto:support@giscus.app
+[organization]: https://github.com/sredevopsorg
+[email]: mailto:support@sredevops.org
 [github-privacy]: https://docs.github.com/en/github/site-policy/github-privacy-statement
