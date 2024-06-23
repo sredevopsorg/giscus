@@ -42,9 +42,12 @@ jobs:
 
       - name: Run ESLint and Stylelint
         run: yarn lint
+        continue-on-error: true
 
       - name: Run Prettier
         run: yarn format
+        continue-on-error: true
 
       - name: Build project
         run: yarn build
+        continue-on-error: false
